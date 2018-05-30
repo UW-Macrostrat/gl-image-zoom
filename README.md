@@ -1,5 +1,5 @@
 # gl-image-zoom
-Zoom and pan images using [Mapbox GL JS](https://github.com/mapbox/mapbox-gl-js)
+Zoom and pan images using [Mapbox GL JS](https://github.com/mapbox/mapbox-gl-js). Try it here - https://uw-macrostrat.github.io/gl-image-zoom/example/index.html
 
 
 ## Usage
@@ -13,7 +13,7 @@ Include the script `gl-image-zoom.js`, along with the javascript and css of Mapb
 
 
 ## Example
-A working example can be found in the `example` directory
+A working example can be found in the `example` directory, or by visiting https://uw-macrostrat.github.io/gl-image-zoom/example/index.html
 
 
 ## License
