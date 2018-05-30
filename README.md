@@ -7,7 +7,7 @@ Include the script `gl-image-zoom.js`, along with the javascript and css of Mapb
 
 `glImage(<image src>, options)`
 
-**image src** - a string that specifies a path to an image
+**image src** - a string that specifies a path to an image  
 **options** - an object that contains the following properties:
   - `container` - default `gl-image-zoom`. The `div` the image viewer should be initialized into
 
